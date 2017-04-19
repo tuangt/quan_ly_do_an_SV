@@ -1,0 +1,7 @@
+*.dll
+packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.js
+packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Microsoft.jQuery.Unobtrusive.Validation.3.2.3.nupkg
+packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js
+*.nupkg
+packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml
+packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt

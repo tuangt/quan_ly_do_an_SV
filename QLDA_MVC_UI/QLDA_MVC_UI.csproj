@@ -250,6 +250,7 @@
     <Folder Include="App_Themes\fonts\" />
     <Folder Include="App_Themes\img\" />
     <Folder Include="App_Themes\js\" />
+    <Folder Include="First Timeline Demo_files\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
