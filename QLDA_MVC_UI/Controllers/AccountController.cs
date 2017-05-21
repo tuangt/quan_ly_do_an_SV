@@ -12,6 +12,9 @@ using QLDA_MVC_UI.Models;
 
 namespace QLDA_MVC_UI.Controllers
 {
+    /// <summary>
+    ///    Hello
+    /// </summary>
     [Authorize]
     public class AccountController : Controller
     {

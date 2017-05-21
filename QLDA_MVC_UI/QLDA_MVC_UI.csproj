@@ -184,7 +184,16 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Themes\css\bootstrap.css" />
+    <Content Include="App_Themes\css\font-awesome.min.css" />
+    <Content Include="App_Themes\css\style.css" />
+    <Content Include="App_Themes\css\timeline.css" />
     <Content Include="App_Themes\Default.aspx" />
+    <Content Include="App_Themes\fonts\fontawesome-webfont.svg" />
+    <Content Include="App_Themes\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="App_Themes\js\bootstrap.js" />
+    <Content Include="App_Themes\js\bootstrap.min.js" />
+    <Content Include="App_Themes\js\jquery-1.10.2.js" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -194,6 +203,13 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="App_Themes\Web.config" />
+    <Content Include="App_Themes\fonts\fontawesome-webfont.eot" />
+    <Content Include="App_Themes\fonts\fontawesome-webfont.ttf" />
+    <Content Include="App_Themes\fonts\fontawesome-webfont.woff" />
+    <Content Include="App_Themes\fonts\FontAwesome.otf" />
+    <Content Include="App_Themes\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="App_Themes\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="App_Themes\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -244,10 +260,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="App_Themes\css\" />
-    <Folder Include="App_Themes\fonts\" />
     <Folder Include="App_Themes\img\" />
-    <Folder Include="App_Themes\js\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
